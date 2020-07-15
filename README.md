@@ -5,7 +5,9 @@
      * BHK
      * Total Sqft of house
      * No. of Bathrooms
+     ##### https://github.com/harsht24/Data-Science-Projects/tree/master/BHP #####
   2. Street view house numbers
      * Built a GAN using convolutional layers to generate new, realistic-looking images of house numbers.
      * Dataset : [Street View House Numbers](http://ufldl.stanford.edu/housenumbers/)
      * Paper : [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
+     ##### #####
