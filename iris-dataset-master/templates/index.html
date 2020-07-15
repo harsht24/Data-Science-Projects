@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Iris</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
+</head>
+<body>
+<center><h2>Lets predict..</h2></center>
+<div class="login" align="center">
+<form action="{{ url_for('predict') }}" method="post" >
+
+        <input type="text" name="sepal_length" placeholder="Sepal Length">
+
+        <input type="text" name="sepal_width" placeholder="Sepal Width">
+
+        <input type="text" name="petal_length" placeholder="Petal Length">
+
+
+        <input type="text" name="petal_width" placeholder="Petal Width">
+
+
+        <input class="btn btn-primary" type="submit" value="submit"></a>
+
+        </form>
+    <br>
+    <br>
+    <div align="center">
+        <h3><STRONG><i>{{ predicted_class }}</i></STRONG></h3>
+    </div>
+    </div>
+
+
+</body>
+
+</html>
