@@ -12,4 +12,6 @@
      * Paper : [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/pdf/1511.06434.pdf)
    
   3. <a href = 'https://github.com/harsht24/Data-Science-Projects/tree/master/sentiment_analysis_web_app-master'> Sentiment Analysis Web application</a>
+     * Built an RNN performing sentiment analysis on movie reviews complete with publicly accessible API and a simple web page which interacts with the deployed endpoint.
+     * Deployed on AWS SageMaker
    
