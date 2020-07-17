@@ -13,5 +13,5 @@
    
   3. <a href = 'https://github.com/harsht24/Data-Science-Projects/tree/master/sentiment_analysis_web_app-master'> Sentiment Analysis Web application</a>
      * Built an RNN performing sentiment analysis on movie reviews complete with publicly accessible API and a simple web page which interacts with the deployed endpoint.
-     * Deployed on AWS SageMaker
+     * Deployed on <a href='https://aws.amazon.com/sagemaker/'>AWS SageMaker</a>
    
