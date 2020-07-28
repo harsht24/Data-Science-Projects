@@ -15,7 +15,7 @@
      * Built an RNN performing sentiment analysis on movie reviews complete with publicly accessible API and a simple web page which interacts with the deployed endpoint.
      * Deployed on <a href='https://aws.amazon.com/sagemaker/'>AWS SageMaker</a>
    
-  4. <a href='https://github.com/harsht24/Data-Science-Projects/tree/master/iris-dataset-master'>Iris Flower Web Dataset</a>
+  4. <a href='https://github.com/harsht24/Data-Science-Projects/tree/master/iris-dataset-master'>Iris Flower Classification</a>
      * Built an end to end web application which classifies IRIS Flowers based on 4 classes.
      * 4 classes are-
         * sepal_length: Sepal length, in centimeters, used as input.
